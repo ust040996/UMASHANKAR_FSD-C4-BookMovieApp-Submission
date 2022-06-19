@@ -1,0 +1,51 @@
+.upcomingMoviesHeading {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        background-color: #ff9999;
+        padding: 8px;
+        text-align: center;
+        font-size: 1rem;
+        margin: 0px;
+  }
+
+
+.root {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        overflow: hidden;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    
+.titleBar {
+        background:  "linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 70%, rgba(0,0,0,0) 100%)";
+}
+
+
+
+.SecondSection {
+        display: flex;
+        flex-direction: row;
+}
+
+.ReleasedMovies {
+        display : flex;
+        flex-basis: 74%;
+  }
+
+.FilterForm {
+        display: flex;
+        flex-basis: 26%;
+        margin-left: 16px;
+}
+
+.CardRoot {
+        theme.spacing.unit : 1;
+
+}
+
+
+
+    

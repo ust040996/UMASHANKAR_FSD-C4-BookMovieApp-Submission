@@ -1,0 +1,31 @@
+.root {
+      display: "flex";
+      flex-wrap: "wrap";
+      justify-content: "space-around";
+      overflow: "hidden";
+    }
+
+.gridListReleaseMovies {
+      display : flex;
+      flex-wrap: "wrap";
+      justify-content: "space-around";
+      overflow: "hidden";
+      transform: 'translateZ(0)';
+      cursor: 'pointer';
+}
+
+.icon    {
+      color: "rgba(255, 255, 255, 0.54)";
+}
+
+.GridListReleaseMoviesTile    {
+      display : flex;
+      flex-wrap: "wrap";
+      justify-content: "space-around";
+      overflow: "hidden";
+      transform: 'translateZ(0)';
+      cursor: 'pointer';
+      width: '100%';
+}
+
+  
